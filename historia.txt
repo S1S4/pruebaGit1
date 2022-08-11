@@ -13,4 +13,6 @@ Master2
 Experimento 1
 >>>>>>> 9a5d45c (Exp 1)
 
+Experimento 2
+
 todo lo que escribiste no lo volveras a ver
