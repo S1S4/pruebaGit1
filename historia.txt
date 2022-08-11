@@ -4,14 +4,9 @@ ya nada es como antes
 
 Master1
 
-<<<<<<< HEAD
-
-
-
 Master2
-=======
+
 Experimento 1
->>>>>>> 9a5d45c (Exp 1)
 
 Experimento 2
 
